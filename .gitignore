@@ -1,4 +1,4 @@
 /*
 !/.gitignore
-!/.README.MD
-!src/*.java
+!/README.MD
+!/src/*.java
