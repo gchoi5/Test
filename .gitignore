@@ -1,6 +1,11 @@
 /*
 !.gitignore
-!README.MD
+!README.md
 
 /*/
 !/src2/
+/src2/*
+!/src2/*.java
+!/src3/
+/src3/*
+!/src3/*.png
