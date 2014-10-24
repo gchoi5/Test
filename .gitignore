@@ -1,5 +1,2 @@
 /*
-/*/
-!/src3/*.java
-!/*.java
-!.gitignore
+!/src3
