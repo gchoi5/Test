@@ -1,4 +1,8 @@
 *
+src/*
+
+!src/*.java
 
 !*.java
 !*.txt
+
