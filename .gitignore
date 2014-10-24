@@ -1,6 +1,5 @@
-src3/*
-!src3/*.javafolder
-
-*
+/*
+/*/
+!/src3/*.java
+!/*.java
 !.gitignore
-!README.MD
