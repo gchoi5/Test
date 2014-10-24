@@ -1,6 +1,7 @@
-*
-!*.java
-!*.txt
-!*.png
+*.class
+
+*.jar
+*.war
+*.ear
 
 
